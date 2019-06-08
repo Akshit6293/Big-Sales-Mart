@@ -1,0 +1,8 @@
+Hi,
+
+I have used randomforest regressor due to its high acuuracy.
+I have even used Artificial Neural net for the same.
+All the null values were imputed.
+Some values were corrected through out the data.
+EDA analysis were performed in the data set.
+I have also done feature engineering to find out more features in the current dataset.
